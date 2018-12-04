@@ -10,6 +10,7 @@ namespace Test_SLAM
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("hello word");
         }
     }
 }
